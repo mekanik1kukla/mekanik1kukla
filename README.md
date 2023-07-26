@@ -1,4 +1,4 @@
-👋 Hi, I’m Fırat Degirmencioğlu (@mekanik1kukla). Im Computer Engineering 4th grade student at Kocaeli University, Turkey.
+👋 Hi, I’m Fırat Degirmencioğlu (mekanik1kukla). Im Computer Engineering 4th grade student at Kocaeli University, Turkey.
 
 👀 I’m interested in being Full Stack Developer.
 
